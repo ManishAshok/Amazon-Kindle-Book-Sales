@@ -88,21 +88,22 @@
 
 <p>This section highlights key findings from the analysis performed on the Kindle book sales data.</p>
 
+
 <h4 id="sales-trend-analysis">Distribution of Stars</h4>
 
-<p><img src="sandbox:/mnt/data/distribution_of_stars.png" alt="Distribution of Stars"></p>
+<p><img src="images/distribution_of_stars.png" alt="Example Image" width="500"></p>
 
 <p>This analysis showcases the distribution of star ratings given to books. It reveals the frequency of each star rating, helping to understand customer satisfaction.</p>
 
 <h4 id="genre-performance">eBook Pricing vs. Consumer Reviews</h4>
 
-<p><img src="sandbox:/mnt/data/ebook_pricing_vs_reviews.png" alt="eBook Pricing vs. Consumer Reviews"></p>
+<p><img src="images/ebook_pricing_vs_reviews.png" alt="Example Image" width="500"></p>
 
 <p>This scatter plot shows the relationship between eBook pricing and the number of consumer reviews. It provides insights into how pricing strategies might influence customer feedback.</p>
 
 <h4 id="customer-review-insights">Customer Reviews, Ratings, and Bestseller Status</h4>
 
-<p><img src="sandbox:/mnt/data/reviews_ratings_bestseller_fixed.png" alt="Customer Reviews, Ratings, and Bestseller Status"></p>
+<p><img src="images/reviews_ratings_bestseller_fixed.png" alt="Example Image" width="500"></p>
 
 <p>This scatter plot illustrates customer reviews and ratings, with an emphasis on whether the book is a bestseller. It helps in understanding how bestseller status might correlate with ratings and reviews.</p>
 
