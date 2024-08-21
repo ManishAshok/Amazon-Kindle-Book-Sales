@@ -124,8 +124,6 @@
 
 <p>Distributed under the MIT License. See <code>LICENSE.txt</code> for more information.</p>
 
-<p>Project Link: <a href="https://github.com/your_username/amazon-kindle-analysis">https://github.com/your_username/amazon-kindle-analysis</a></p>
-
 <h2 id="acknowledgements">Acknowledgements</h2>
 <ul>
     <li><a href="https://www.python.org/">Python</a></li>
