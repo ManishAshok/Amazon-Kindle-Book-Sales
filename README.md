@@ -65,7 +65,6 @@
 <ul>
     <li>Python 3.x</li>
     <li>Jupyter Notebook</li>
-    <li>Required Python libraries listed in <code>requirements.txt</code></li>
 </ul>
 
 <h3 id="installation">Installation</h3>
